@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<container name="root" isBranch="true">
+    <container name="Interactive Activities" isBranch="false" modify="false" image="1.png">
+        <assets isVisible="false">
+            <asset editable="true" id="1" bookID="" pageID="6" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int5.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="75" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch4int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="75" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch4int3.swf</path>
+            </asset>
+        </assets>
+    </container>
+    <container name="Slideshow" isBranch="false" modify="false" image="1.png">
+        <assets isVisible="false">
+            <asset editable="true" id="1" bookID="" pageID="2" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="3" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="4" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="5" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="7" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int6.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="8" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int7.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="9" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int8.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="10" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int9.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="14" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1int10.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="18" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch2int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="19" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch2int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="57" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch18int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="59" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch18int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="63" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch18int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="65" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch18int4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="67" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch18int5.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="77" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch4int4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="82" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch5int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="86" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch5int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="86" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch5int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="89" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch5int5.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="91" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch5int6.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="103" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch6int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="125" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch8int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="134" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch9int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="153" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch10int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="157" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch10int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="168" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch11int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="172" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch11int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="177" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch11int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="179" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch12int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="186" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch12int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="199" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch14int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="201" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch14int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="202" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch14int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="210" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="212" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="212" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="213" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15int4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="213" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15int5.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="214" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15int6.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="220" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch16int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="221" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch16int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="223" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch16int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="224" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch16int4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="225" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch16int5.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="231" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch17int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="238" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch17int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="242" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch19int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="244" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch19int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="275" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch21int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="278" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch21int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="281" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch21int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="292" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch22int1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="293" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch22int2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="296" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch22int3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="302" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch22int4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="317" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch24int1.swf</path>
+            </asset>
+        </assets>
+    </container>
+    <container name="Word Animation" isBranch="false" modify="false" image="1.png">
+        <assets isVisible="false">
+            <asset editable="true" id="1" bookID="" pageID="1" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="12" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch1an2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="26" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch2an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="75" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch4an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="93" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch5an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="103" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch6an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="113" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch7an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="125" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch8an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="141" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch9an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="149" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch10an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="191" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch13an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="211" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch15an2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="236" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch17an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="257" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch20an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="258" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch20an2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="259" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch20an3.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="265" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch20an4.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="286" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch22an1.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="302" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch22an2.swf</path>
+            </asset>
+            <asset editable="true" id="1" bookID="" pageID="307" external="false">
+                <name></name>
+                <description></description>
+                <type>Flash</type>
+                <path>../ebook/mm8ch23an1.swf</path>
+            </asset>
+        </assets>
+    </container>
+</container>

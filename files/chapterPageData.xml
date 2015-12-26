@@ -1,0 +1,4220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookStructure>
+    <sections>
+        <section identifier="1" label="1. Rational Numbers  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="1" external="false">
+                    <name>Page 1</name>
+                    <description>Page 1</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="1"
+                       external="false">
+                    <name>Pg1: Animation</name>
+                    <description>Page 1</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="2" external="false">
+                    <name>Page 2</name>
+                    <description>Page 2</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="2"
+                       external="false">
+                    <name>Pg2: Slideshow</name>
+                    <description>Page 2</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="3" external="false">
+                    <name>Page 3</name>
+                    <description>Page 3</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="3"
+                       external="false">
+                    <name>Pg3: Slideshow</name>
+                    <description>Page 3</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="4" external="false">
+                    <name>Page 4</name>
+                    <description>Page 4</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="4"
+                       external="false">
+                    <name>Pg4: Slideshow</name>
+                    <description>Page 4</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="5" external="false">
+                    <name>Page 5</name>
+                    <description>Page 5</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="5"
+                       external="false">
+                    <name>Pg5: Slideshow</name>
+                    <description>Page 5</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="6" external="false">
+                    <name>Page 6</name>
+                    <description>Page 6</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="6"
+                       external="false">
+                    <name>Pg6: Interactivity</name>
+                    <description>Page 6</description>
+                    <type>Flash</type>
+                    <genre>Interactivity</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="7" external="false">
+                    <name>Page 7</name>
+                    <description>Page 7</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="7"
+                       external="false">
+                    <name>Pg7: Slideshow</name>
+                    <description>Page 7</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="8" external="false">
+                    <name>Page 8</name>
+                    <description>Page 8</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="8"
+                       external="false">
+                    <name>Pg8: Slideshow</name>
+                    <description>Page 8</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="9" external="false">
+                    <name>Page 9</name>
+                    <description>Page 9</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="9"
+                       external="false">
+                    <name>Pg9: Slideshow</name>
+                    <description>Page 9</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="10" external="false">
+                    <name>Page 10</name>
+                    <description>Page 10</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="10"
+                       external="false">
+                    <name>Pg10: Slideshow</name>
+                    <description>Page 10</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="11" external="false">
+                    <name>Page 11</name>
+                    <description>Page 11</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="12" external="false">
+                    <name>Page 12</name>
+                    <description>Page 12</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="12"
+                       external="false">
+                    <name>Pg12: Animation</name>
+                    <description>Page 12</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="13" external="false">
+                    <name>Page 13</name>
+                    <description>Page 13</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="14" external="false">
+                    <name>Page 14</name>
+                    <description>Page 14</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="14"
+                       external="false">
+                    <name>Pg14: Slideshow</name>
+                    <description>Page 14</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="15" external="false">
+                    <name>Page 15</name>
+                    <description>Page 15</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="16" external="false">
+                    <name>Page 16</name>
+                    <description>Page 16</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="17" external="false">
+                    <name>Page 17</name>
+                    <description>Page 17</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="18" label="2. Exponents  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="18" external="false">
+                    <name>Page 18</name>
+                    <description>Page 18</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="18"
+                       external="false">
+                    <name>Pg18: Slideshow</name>
+                    <description>Page 18</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="19" external="false">
+                    <name>Page 19</name>
+                    <description>Page 19</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="19"
+                       external="false">
+                    <name>Pg19: Slideshow</name>
+                    <description>Page 19</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="20" external="false">
+                    <name>Page 20</name>
+                    <description>Page 20</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="21" external="false">
+                    <name>Page 21</name>
+                    <description>Page 21</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="22" external="false">
+                    <name>Page 22</name>
+                    <description>Page 22</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="23" external="false">
+                    <name>Page 23</name>
+                    <description>Page 23</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="24" external="false">
+                    <name>Page 24</name>
+                    <description>Page 24</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="25" external="false">
+                    <name>Page 25</name>
+                    <description>Page 25</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="26" external="false">
+                    <name>Page 26</name>
+                    <description>Page 26</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="26"
+                       external="false">
+                    <name>Pg26: Animation</name>
+                    <description>Page 26</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="27" external="false">
+                    <name>Page 27</name>
+                    <description>Page 27</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="28" external="false">
+                    <name>Page 28</name>
+                    <description>Page 28</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="29" external="false">
+                    <name>Page 29</name>
+                    <description>Page 29</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="30" external="false">
+                    <name>Page 30</name>
+                    <description>Page 30</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="31" label="3. Squares and Square Roots  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="31" external="false">
+                    <name>Page 31</name>
+                    <description>Page 31</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="32" external="false">
+                    <name>Page 32</name>
+                    <description>Page 32</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="33" external="false">
+                    <name>Page 33</name>
+                    <description>Page 33</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="34" external="false">
+                    <name>Page 34</name>
+                    <description>Page 34</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="35" external="false">
+                    <name>Page 35</name>
+                    <description>Page 35</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="36" external="false">
+                    <name>Page 36</name>
+                    <description>Page 36</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="37" external="false">
+                    <name>Page 37</name>
+                    <description>Page 37</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="38" external="false">
+                    <name>Page 38</name>
+                    <description>Page 38</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="39" external="false">
+                    <name>Page 39</name>
+                    <description>Page 39</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="40" external="false">
+                    <name>Page 40</name>
+                    <description>Page 40</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="41" external="false">
+                    <name>Page 41</name>
+                    <description>Page 41</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="42" external="false">
+                    <name>Page 42</name>
+                    <description>Page 42</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="43" external="false">
+                    <name>Page 43</name>
+                    <description>Page 43</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="44" external="false">
+                    <name>Page 44</name>
+                    <description>Page 44</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="45" external="false">
+                    <name>Page 45</name>
+                    <description>Page 45</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="46" external="false">
+                    <name>Page 46</name>
+                    <description>Page 46</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="47" external="false">
+                    <name>Page 47</name>
+                    <description>Page 47</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="48" external="false">
+                    <name>Page 48</name>
+                    <description>Page 48</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="49" external="false">
+                    <name>Page 49</name>
+                    <description>Page 49</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="50" external="false">
+                    <name>Page 50</name>
+                    <description>Page 50</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="51" external="false">
+                    <name>Page 51</name>
+                    <description>Page 51</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="52" external="false">
+                    <name>Page 52</name>
+                    <description>Page 52</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="53" external="false">
+                    <name>Page 53</name>
+                    <description>Page 53</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="54" external="false">
+                    <name>Page 54</name>
+                    <description>Page 54</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="55" external="false">
+                    <name>Page 55</name>
+                    <description>Page 55</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="56" external="false">
+                    <name>Page 56</name>
+                    <description>Page 56</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="57" label="4. Cubes and Cube Roots  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="57" external="false">
+                    <name>Page 57</name>
+                    <description>Page 57</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="57"
+                       external="false">
+                    <name>Pg57: Slideshow</name>
+                    <description>Page 57</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="58" external="false">
+                    <name>Page 58</name>
+                    <description>Page 58</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="59" external="false">
+                    <name>Page 59</name>
+                    <description>Page 59</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="59"
+                       external="false">
+                    <name>Pg59: Slideshow</name>
+                    <description>Page 59</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="60" external="false">
+                    <name>Page 60</name>
+                    <description>Page 60</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="61" external="false">
+                    <name>Page 61</name>
+                    <description>Page 61</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="62" external="false">
+                    <name>Page 62</name>
+                    <description>Page 62</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="63" external="false">
+                    <name>Page 63</name>
+                    <description>Page 63</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="63"
+                       external="false">
+                    <name>Pg63: Slideshow</name>
+                    <description>Page 63</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="64" external="false">
+                    <name>Page 64</name>
+                    <description>Page 64</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="65" external="false">
+                    <name>Page 65</name>
+                    <description>Page 65</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="65"
+                       external="false">
+                    <name>Pg65: Slideshow</name>
+                    <description>Page 65</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="66" external="false">
+                    <name>Page 66</name>
+                    <description>Page 66</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="67" external="false">
+                    <name>Page 67</name>
+                    <description>Page 67</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="67"
+                       external="false">
+                    <name>Pg67: Slideshow</name>
+                    <description>Page 67</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="68" external="false">
+                    <name>Page 68</name>
+                    <description>Page 68</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="69" external="false">
+                    <name>Page 69</name>
+                    <description>Page 69</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="70" label="Formative Assessment (FA 1)  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="70" external="false">
+                    <name>Page 70</name>
+                    <description>Page 70</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="71" external="false">
+                    <name>Page 71</name>
+                    <description>Page 71</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="72" label="5. Playing with Numbers  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="72" external="false">
+                    <name>Page 72</name>
+                    <description>Page 72</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="73" external="false">
+                    <name>Page 73</name>
+                    <description>Page 73</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="74" external="false">
+                    <name>Page 74</name>
+                    <description>Page 74</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="75" external="false">
+                    <name>Page 75</name>
+                    <description>Page 75</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="75"
+                       external="false">
+                    <name>Pg75: Interactivity</name>
+                    <description>Page 75</description>
+                    <type>Flash</type>
+                    <genre>Interactivity</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="75"
+                       external="false">
+                    <name>Pg75: Interactivity</name>
+                    <description>Page 75</description>
+                    <type>Flash</type>
+                    <genre>Interactivity</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_3" bookID="undefined" pageID="75"
+                       external="false">
+                    <name>Pg75: Animation</name>
+                    <description>Page 75</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="76" external="false">
+                    <name>Page 76</name>
+                    <description>Page 76</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="77" external="false">
+                    <name>Page 77</name>
+                    <description>Page 77</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="77"
+                       external="false">
+                    <name>Pg77: Slideshow</name>
+                    <description>Page 77</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="78" external="false">
+                    <name>Page 78</name>
+                    <description>Page 78</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="79" external="false">
+                    <name>Page 79</name>
+                    <description>Page 79</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="80" external="false">
+                    <name>Page 80</name>
+                    <description>Page 80</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="81" external="false">
+                    <name>Page 81</name>
+                    <description>Page 81</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="82" label="6. Algebraic Expressions  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="82" external="false">
+                    <name>Page 82</name>
+                    <description>Page 82</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="82"
+                       external="false">
+                    <name>Pg82: Slideshow</name>
+                    <description>Page 82</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="83" external="false">
+                    <name>Page 83</name>
+                    <description>Page 83</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="84" external="false">
+                    <name>Page 84</name>
+                    <description>Page 84</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="85" external="false">
+                    <name>Page 85</name>
+                    <description>Page 85</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="86" external="false">
+                    <name>Page 86</name>
+                    <description>Page 86</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="86"
+                       external="false">
+                    <name>Pg86: Slideshow</name>
+                    <description>Page 86</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="86"
+                       external="false">
+                    <name>Pg86: Slideshow</name>
+                    <description>Page 86</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="87" external="false">
+                    <name>Page 87</name>
+                    <description>Page 87</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="88" external="false">
+                    <name>Page 88</name>
+                    <description>Page 88</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="89" external="false">
+                    <name>Page 89</name>
+                    <description>Page 89</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="89"
+                       external="false">
+                    <name>Pg89: Slideshow</name>
+                    <description>Page 89</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="90" external="false">
+                    <name>Page 90</name>
+                    <description>Page 90</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="91" external="false">
+                    <name>Page 91</name>
+                    <description>Page 91</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="91"
+                       external="false">
+                    <name>Pg91: Slideshow</name>
+                    <description>Page 91</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="92" external="false">
+                    <name>Page 92</name>
+                    <description>Page 92</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="93" external="false">
+                    <name>Page 93</name>
+                    <description>Page 93</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="93"
+                       external="false">
+                    <name>Pg93: Animation</name>
+                    <description>Page 93</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="94" external="false">
+                    <name>Page 94</name>
+                    <description>Page 94</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="95" external="false">
+                    <name>Page 95</name>
+                    <description>Page 95</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="96" external="false">
+                    <name>Page 96</name>
+                    <description>Page 96</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="97" external="false">
+                    <name>Page 97</name>
+                    <description>Page 97</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="98" external="false">
+                    <name>Page 98</name>
+                    <description>Page 98</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="99" external="false">
+                    <name>Page 99</name>
+                    <description>Page 99</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="100" external="false">
+                    <name>Page 100</name>
+                    <description>Page 100</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="101" external="false">
+                    <name>Page 101</name>
+                    <description>Page 101</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="102" external="false">
+                    <name>Page 102</name>
+                    <description>Page 102</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="103" label="7. Factorization  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="103" external="false">
+                    <name>Page 103</name>
+                    <description>Page 103</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="103"
+                       external="false">
+                    <name>Pg103: Animation</name>
+                    <description>Page 103</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="103"
+                       external="false">
+                    <name>Pg103: Slideshow</name>
+                    <description>Page 103</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="104" external="false">
+                    <name>Page 104</name>
+                    <description>Page 104</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="105" external="false">
+                    <name>Page 105</name>
+                    <description>Page 105</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="106" external="false">
+                    <name>Page 106</name>
+                    <description>Page 106</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="107" external="false">
+                    <name>Page 107</name>
+                    <description>Page 107</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="108" external="false">
+                    <name>Page 108</name>
+                    <description>Page 108</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="109" external="false">
+                    <name>Page 109</name>
+                    <description>Page 109</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="110" external="false">
+                    <name>Page 110</name>
+                    <description>Page 110</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="111" external="false">
+                    <name>Page 111</name>
+                    <description>Page 111</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="112" external="false">
+                    <name>Page 112</name>
+                    <description>Page 112</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="113" label="8. Linear Equation in One Variable  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="113" external="false">
+                    <name>Page 113</name>
+                    <description>Page 113</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="113"
+                       external="false">
+                    <name>Pg113: Animation</name>
+                    <description>Page 113</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="114" external="false">
+                    <name>Page 114</name>
+                    <description>Page 114</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="115" external="false">
+                    <name>Page 115</name>
+                    <description>Page 115</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="116" external="false">
+                    <name>Page 116</name>
+                    <description>Page 116</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="117" external="false">
+                    <name>Page 117</name>
+                    <description>Page 117</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="118" external="false">
+                    <name>Page 118</name>
+                    <description>Page 118</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="119" external="false">
+                    <name>Page 119</name>
+                    <description>Page 119</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="120" external="false">
+                    <name>Page 120</name>
+                    <description>Page 120</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="121" external="false">
+                    <name>Page 121</name>
+                    <description>Page 121</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="122" external="false">
+                    <name>Page 122</name>
+                    <description>Page 122</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="123" external="false">
+                    <name>Page 123</name>
+                    <description>Page 123</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="124" external="false">
+                    <name>Page 124</name>
+                    <description>Page 124</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="125" label="9. Percentage  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="125" external="false">
+                    <name>Page 125</name>
+                    <description>Page 125</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="125"
+                       external="false">
+                    <name>Pg125: Animation</name>
+                    <description>Page 125</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="125"
+                       external="false">
+                    <name>Pg125: Slideshow</name>
+                    <description>Page 125</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="126" external="false">
+                    <name>Page 126</name>
+                    <description>Page 126</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="127" external="false">
+                    <name>Page 127</name>
+                    <description>Page 127</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="128" external="false">
+                    <name>Page 128</name>
+                    <description>Page 128</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="129" external="false">
+                    <name>Page 129</name>
+                    <description>Page 129</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="130" external="false">
+                    <name>Page 130</name>
+                    <description>Page 130</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="131" external="false">
+                    <name>Page 131</name>
+                    <description>Page 131</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="132" external="false">
+                    <name>Page 132</name>
+                    <description>Page 132</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="133" external="false">
+                    <name>Page 133</name>
+                    <description>Page 133</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="134" label="10. Profit and Loss  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="134" external="false">
+                    <name>Page 134</name>
+                    <description>Page 134</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="134"
+                       external="false">
+                    <name>Pg134: Slideshow</name>
+                    <description>Page 134</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="135" external="false">
+                    <name>Page 135</name>
+                    <description>Page 135</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="136" external="false">
+                    <name>Page 136</name>
+                    <description>Page 136</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="137" external="false">
+                    <name>Page 137</name>
+                    <description>Page 137</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="138" external="false">
+                    <name>Page 138</name>
+                    <description>Page 138</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="139" external="false">
+                    <name>Page 139</name>
+                    <description>Page 139</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="140" external="false">
+                    <name>Page 140</name>
+                    <description>Page 140</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="141" external="false">
+                    <name>Page 141</name>
+                    <description>Page 141</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="141"
+                       external="false">
+                    <name>Pg141: Animation</name>
+                    <description>Page 141</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="142" external="false">
+                    <name>Page 142</name>
+                    <description>Page 142</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="143" external="false">
+                    <name>Page 143</name>
+                    <description>Page 143</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="144" external="false">
+                    <name>Page 144</name>
+                    <description>Page 144</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="145" external="false">
+                    <name>Page 145</name>
+                    <description>Page 145</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="146" external="false">
+                    <name>Page 146</name>
+                    <description>Page 146</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="147" external="false">
+                    <name>Page 147</name>
+                    <description>Page 147</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="148" external="false">
+                    <name>Page 148</name>
+                    <description>Page 148</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="149" label="11. Simple Interest and Compound Interest  " resourcesExist="true"
+                 dividerwidth="430" isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="149" external="false">
+                    <name>Page 149</name>
+                    <description>Page 149</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="149"
+                       external="false">
+                    <name>Pg149: Animation</name>
+                    <description>Page 149</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="150" external="false">
+                    <name>Page 150</name>
+                    <description>Page 150</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="151" external="false">
+                    <name>Page 151</name>
+                    <description>Page 151</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="152" external="false">
+                    <name>Page 152</name>
+                    <description>Page 152</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="153" external="false">
+                    <name>Page 153</name>
+                    <description>Page 153</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="153"
+                       external="false">
+                    <name>Pg153: Slideshow</name>
+                    <description>Page 153</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="154" external="false">
+                    <name>Page 154</name>
+                    <description>Page 154</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="155" external="false">
+                    <name>Page 155</name>
+                    <description>Page 155</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="156" external="false">
+                    <name>Page 156</name>
+                    <description>Page 156</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="157" external="false">
+                    <name>Page 157</name>
+                    <description>Page 157</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="157"
+                       external="false">
+                    <name>Pg157: Slideshow</name>
+                    <description>Page 157</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="158" external="false">
+                    <name>Page 158</name>
+                    <description>Page 158</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="159" external="false">
+                    <name>Page 159</name>
+                    <description>Page 159</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="160" external="false">
+                    <name>Page 160</name>
+                    <description>Page 160</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="161" external="false">
+                    <name>Page 161</name>
+                    <description>Page 161</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="162" external="false">
+                    <name>Page 162</name>
+                    <description>Page 162</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="163" label="Formative Assessment (FA 2)  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="163" external="false">
+                    <name>Page 163</name>
+                    <description>Page 163</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="164" external="false">
+                    <name>Page 164</name>
+                    <description>Page 164</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="165" label="Summative Assessment 1  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="165" external="false">
+                    <name>Page 165</name>
+                    <description>Page 165</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="166" external="false">
+                    <name>Page 166</name>
+                    <description>Page 166</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="167" external="false">
+                    <name>Page 167</name>
+                    <description>Page 167</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="168" label="12. Ratio and Proportions  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="168" external="false">
+                    <name>Page 168</name>
+                    <description>Page 168</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="168"
+                       external="false">
+                    <name>Pg168: Slideshow</name>
+                    <description>Page 168</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="169" external="false">
+                    <name>Page 169</name>
+                    <description>Page 169</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="170" external="false">
+                    <name>Page 170</name>
+                    <description>Page 170</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="171" external="false">
+                    <name>Page 171</name>
+                    <description>Page 171</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="172" external="false">
+                    <name>Page 172</name>
+                    <description>Page 172</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="172"
+                       external="false">
+                    <name>Pg172: Slideshow</name>
+                    <description>Page 172</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="173" external="false">
+                    <name>Page 173</name>
+                    <description>Page 173</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="174" external="false">
+                    <name>Page 174</name>
+                    <description>Page 174</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="175" external="false">
+                    <name>Page 175</name>
+                    <description>Page 175</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="176" external="false">
+                    <name>Page 176</name>
+                    <description>Page 176</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="177" external="false">
+                    <name>Page 177</name>
+                    <description>Page 177</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="177"
+                       external="false">
+                    <name>Pg177: Slideshow</name>
+                    <description>Page 177</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="178" external="false">
+                    <name>Page 178</name>
+                    <description>Page 178</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="179" label="13. Direct and Inverse Proportions  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="179" external="false">
+                    <name>Page 179</name>
+                    <description>Page 179</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="179"
+                       external="false">
+                    <name>Pg179: Slideshow</name>
+                    <description>Page 179</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="180" external="false">
+                    <name>Page 180</name>
+                    <description>Page 180</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="181" external="false">
+                    <name>Page 181</name>
+                    <description>Page 181</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="182" external="false">
+                    <name>Page 182</name>
+                    <description>Page 182</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="183" external="false">
+                    <name>Page 183</name>
+                    <description>Page 183</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="184" external="false">
+                    <name>Page 184</name>
+                    <description>Page 184</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="185" external="false">
+                    <name>Page 185</name>
+                    <description>Page 185</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="186" external="false">
+                    <name>Page 186</name>
+                    <description>Page 186</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="186"
+                       external="false">
+                    <name>Pg186: Slideshow</name>
+                    <description>Page 186</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="187" external="false">
+                    <name>Page 187</name>
+                    <description>Page 187</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="188" external="false">
+                    <name>Page 188</name>
+                    <description>Page 188</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="189" external="false">
+                    <name>Page 189</name>
+                    <description>Page 189</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="190" external="false">
+                    <name>Page 190</name>
+                    <description>Page 190</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="191" label="14. Time and Work " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="191" external="false">
+                    <name>Page 191</name>
+                    <description>Page 191</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="191"
+                       external="false">
+                    <name>Pg191: Animation</name>
+                    <description>Page 191</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="192" external="false">
+                    <name>Page 192</name>
+                    <description>Page 192</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="193" external="false">
+                    <name>Page 193</name>
+                    <description>Page 193</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="194" external="false">
+                    <name>Page 194</name>
+                    <description>Page 194</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="195" external="false">
+                    <name>Page 195</name>
+                    <description>Page 195</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="196" external="false">
+                    <name>Page 196</name>
+                    <description>Page 196</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="197" external="false">
+                    <name>Page 197</name>
+                    <description>Page 197</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="198" external="false">
+                    <name>Page 198</name>
+                    <description>Page 198</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="199" label="15. Polygons  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="199" external="false">
+                    <name>Page 199</name>
+                    <description>Page 199</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="199"
+                       external="false">
+                    <name>Pg199: Slideshow</name>
+                    <description>Page 199</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="200" external="false">
+                    <name>Page 200</name>
+                    <description>Page 200</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="201" external="false">
+                    <name>Page 201</name>
+                    <description>Page 201</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="201"
+                       external="false">
+                    <name>Pg201: Slideshow</name>
+                    <description>Page 201</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="202" external="false">
+                    <name>Page 202</name>
+                    <description>Page 202</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="202"
+                       external="false">
+                    <name>Pg202: Slideshow</name>
+                    <description>Page 202</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="203" external="false">
+                    <name>Page 203</name>
+                    <description>Page 203</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="204" external="false">
+                    <name>Page 204</name>
+                    <description>Page 204</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="205" external="false">
+                    <name>Page 205</name>
+                    <description>Page 205</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="206" external="false">
+                    <name>Page 206</name>
+                    <description>Page 206</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="207" external="false">
+                    <name>Page 207</name>
+                    <description>Page 207</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="208" external="false">
+                    <name>Page 208</name>
+                    <description>Page 208</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="209" label="16. Quadrilaterals  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="209" external="false">
+                    <name>Page 209</name>
+                    <description>Page 209</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="210" external="false">
+                    <name>Page 210</name>
+                    <description>Page 210</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="210"
+                       external="false">
+                    <name>Pg210: Slideshow</name>
+                    <description>Page 210</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="211" external="false">
+                    <name>Page 211</name>
+                    <description>Page 211</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="211"
+                       external="false">
+                    <name>Pg211: Animation</name>
+                    <description>Page 211</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="212" external="false">
+                    <name>Page 212</name>
+                    <description>Page 212</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="212"
+                       external="false">
+                    <name>Pg212: Slideshow</name>
+                    <description>Page 212</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="212"
+                       external="false">
+                    <name>Pg212: Slideshow</name>
+                    <description>Page 212</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="213" external="false">
+                    <name>Page 213</name>
+                    <description>Page 213</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="213"
+                       external="false">
+                    <name>Pg213: Slideshow</name>
+                    <description>Page 213</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="213"
+                       external="false">
+                    <name>Pg213: Slideshow</name>
+                    <description>Page 213</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="214" external="false">
+                    <name>Page 214</name>
+                    <description>Page 214</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="214"
+                       external="false">
+                    <name>Pg214: Slideshow</name>
+                    <description>Page 214</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="215" external="false">
+                    <name>Page 215</name>
+                    <description>Page 215</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="216" external="false">
+                    <name>Page 216</name>
+                    <description>Page 216</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="217" external="false">
+                    <name>Page 217</name>
+                    <description>Page 217</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="218" external="false">
+                    <name>Page 218</name>
+                    <description>Page 218</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="219" external="false">
+                    <name>Page 219</name>
+                    <description>Page 219</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="220" label="17. Construction of Quadrilaterals  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="220" external="false">
+                    <name>Page 220</name>
+                    <description>Page 220</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="220"
+                       external="false">
+                    <name>Pg220: Slideshow</name>
+                    <description>Page 220</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="221" external="false">
+                    <name>Page 221</name>
+                    <description>Page 221</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="221"
+                       external="false">
+                    <name>Pg221: Slideshow</name>
+                    <description>Page 221</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="222" external="false">
+                    <name>Page 222</name>
+                    <description>Page 222</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="223" external="false">
+                    <name>Page 223</name>
+                    <description>Page 223</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="223"
+                       external="false">
+                    <name>Pg223: Slideshow</name>
+                    <description>Page 223</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="224" external="false">
+                    <name>Page 224</name>
+                    <description>Page 224</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="224"
+                       external="false">
+                    <name>Pg224: Slideshow</name>
+                    <description>Page 224</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="225" external="false">
+                    <name>Page 225</name>
+                    <description>Page 225</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="225"
+                       external="false">
+                    <name>Pg225: Slideshow</name>
+                    <description>Page 225</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="226" external="false">
+                    <name>Page 226</name>
+                    <description>Page 226</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="227" external="false">
+                    <name>Page 227</name>
+                    <description>Page 227</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="228" external="false">
+                    <name>Page 228</name>
+                    <description>Page 228</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="229" external="false">
+                    <name>Page 229</name>
+                    <description>Page 229</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="230" label="Formative Assessment (FA 3)  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="230" external="false">
+                    <name>Page 230</name>
+                    <description>Page 230</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="231" label="18. Three-Dimensional Figures  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="231" external="false">
+                    <name>Page 231</name>
+                    <description>Page 231</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="231"
+                       external="false">
+                    <name>Pg231: Slideshow</name>
+                    <description>Page 231</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="232" external="false">
+                    <name>Page 232</name>
+                    <description>Page 232</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="233" external="false">
+                    <name>Page 233</name>
+                    <description>Page 233</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="234" external="false">
+                    <name>Page 234</name>
+                    <description>Page 234</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="235" external="false">
+                    <name>Page 235</name>
+                    <description>Page 235</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="236" external="false">
+                    <name>Page 236</name>
+                    <description>Page 236</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="236"
+                       external="false">
+                    <name>Pg236: Animation</name>
+                    <description>Page 236</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="237" external="false">
+                    <name>Page 237</name>
+                    <description>Page 237</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="238"
+                       external="false">
+                    <name>Pg238: Slideshow</name>
+                    <description>Page 238</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="238"
+                       external="false">
+                    <name>Pg238: Slideshow</name>
+                    <description>Page 238</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="239" external="false">
+                    <name>Page 239</name>
+                    <description>Page 239</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="240" external="false">
+                    <name>Page 240</name>
+                    <description>Page 240</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="241" external="false">
+                    <name>Page 241</name>
+                    <description>Page 241</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="242" label="19. Areas of Two-Dimensional Figures  " resourcesExist="true"
+                 dividerwidth="430" isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="242" external="false">
+                    <name>Page 242</name>
+                    <description>Page 242</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="242"
+                       external="false">
+                    <name>Pg242: Slideshow</name>
+                    <description>Page 242</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="243" external="false">
+                    <name>Page 243</name>
+                    <description>Page 243</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="244" external="false">
+                    <name>Page 244</name>
+                    <description>Page 244</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="244"
+                       external="false">
+                    <name>Pg244: Slideshow</name>
+                    <description>Page 244</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="245" external="false">
+                    <name>Page 245</name>
+                    <description>Page 245</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="246" external="false">
+                    <name>Page 246</name>
+                    <description>Page 246</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="247" external="false">
+                    <name>Page 247</name>
+                    <description>Page 247</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="248" external="false">
+                    <name>Page 248</name>
+                    <description>Page 248</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="249" external="false">
+                    <name>Page 249</name>
+                    <description>Page 249</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="250" external="false">
+                    <name>Page 250</name>
+                    <description>Page 250</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="251" external="false">
+                    <name>Page 251</name>
+                    <description>Page 251</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="252" external="false">
+                    <name>Page 252</name>
+                    <description>Page 252</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="253" external="false">
+                    <name>Page 253</name>
+                    <description>Page 253</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="254" external="false">
+                    <name>Page 254</name>
+                    <description>Page 254</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="255" external="false">
+                    <name>Page 255</name>
+                    <description>Page 255</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="256" external="false">
+                    <name>Page 256</name>
+                    <description>Page 256</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="257" label="20. Volumes and Surface Areas of Solids  " resourcesExist="true"
+                 dividerwidth="430" isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="257" external="false">
+                    <name>Page 257</name>
+                    <description>Page 257</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="257"
+                       external="false">
+                    <name>Pg257: Animation</name>
+                    <description>Page 257</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="258" external="false">
+                    <name>Page 258</name>
+                    <description>Page 258</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="258"
+                       external="false">
+                    <name>Pg258: Animation</name>
+                    <description>Page 258</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="259" external="false">
+                    <name>Page 259</name>
+                    <description>Page 259</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="259"
+                       external="false">
+                    <name>Pg259: Animation</name>
+                    <description>Page 259</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="260" external="false">
+                    <name>Page 260</name>
+                    <description>Page 260</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="261" external="false">
+                    <name>Page 261</name>
+                    <description>Page 261</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="262" external="false">
+                    <name>Page 262</name>
+                    <description>Page 262</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="263" external="false">
+                    <name>Page 263</name>
+                    <description>Page 263</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="264" external="false">
+                    <name>Page 264</name>
+                    <description>Page 264</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="265" external="false">
+                    <name>Page 265</name>
+                    <description>Page 265</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="265"
+                       external="false">
+                    <name>Pg265: Animation</name>
+                    <description>Page 265</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="266" external="false">
+                    <name>Page 266</name>
+                    <description>Page 266</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="267" external="false">
+                    <name>Page 267</name>
+                    <description>Page 267</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="268" external="false">
+                    <name>Page 268</name>
+                    <description>Page 268</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="269" external="false">
+                    <name>Page 269</name>
+                    <description>Page 269</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="270" external="false">
+                    <name>Page 270</name>
+                    <description>Page 270</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="271" external="false">
+                    <name>Page 271</name>
+                    <description>Page 271</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="272" external="false">
+                    <name>Page 272</name>
+                    <description>Page 272</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="273" label="21. Data Handling  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="273" external="false">
+                    <name>Page 273</name>
+                    <description>Page 273</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="274" external="false">
+                    <name>Page 274</name>
+                    <description>Page 274</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="275" external="false">
+                    <name>Page 275</name>
+                    <description>Page 275</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="275"
+                       external="false">
+                    <name>Pg275: Slideshow</name>
+                    <description>Page 275</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="276" external="false">
+                    <name>Page 276</name>
+                    <description>Page 276</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="277" external="false">
+                    <name>Page 277</name>
+                    <description>Page 277</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="278" external="false">
+                    <name>Page 278</name>
+                    <description>Page 278</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="278"
+                       external="false">
+                    <name>Pg278: Slideshow</name>
+                    <description>Page 278</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="279" external="false">
+                    <name>Page 279</name>
+                    <description>Page 279</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="280" external="false">
+                    <name>Page 280</name>
+                    <description>Page 280</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="281" external="false">
+                    <name>Page 281</name>
+                    <description>Page 281</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="281"
+                       external="false">
+                    <name>Pg281: Slideshow</name>
+                    <description>Page 281</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="282" external="false">
+                    <name>Page 282</name>
+                    <description>Page 282</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="283" external="false">
+                    <name>Page 283</name>
+                    <description>Page 283</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="284" external="false">
+                    <name>Page 284</name>
+                    <description>Page 284</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="285" external="false">
+                    <name>Page 285</name>
+                    <description>Page 285</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="286" label="22. Bar Graphs, Histograms and Pie Charts  " resourcesExist="true"
+                 dividerwidth="430" isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="286" external="false">
+                    <name>Page 286</name>
+                    <description>Page 286</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="286"
+                       external="false">
+                    <name>Pg286: Animation</name>
+                    <description>Page 286</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="287" external="false">
+                    <name>Page 287</name>
+                    <description>Page 287</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="288" external="false">
+                    <name>Page 288</name>
+                    <description>Page 288</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="289" external="false">
+                    <name>Page 289</name>
+                    <description>Page 289</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="290" external="false">
+                    <name>Page 290</name>
+                    <description>Page 290</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="291" external="false">
+                    <name>Page 291</name>
+                    <description>Page 291</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="292" external="false">
+                    <name>Page 292</name>
+                    <description>Page 292</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="292"
+                       external="false">
+                    <name>Pg292: Slideshow</name>
+                    <description>Page 292</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="293" external="false">
+                    <name>Page 293</name>
+                    <description>Page 293</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="293"
+                       external="false">
+                    <name>Pg293: Slideshow</name>
+                    <description>Page 293</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="294" external="false">
+                    <name>Page 294</name>
+                    <description>Page 294</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="295" external="false">
+                    <name>Page 295</name>
+                    <description>Page 295</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="296" external="false">
+                    <name>Page 296</name>
+                    <description>Page 296</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="296"
+                       external="false">
+                    <name>Pg296: Slideshow</name>
+                    <description>Page 296</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="297" external="false">
+                    <name>Page 297</name>
+                    <description>Page 297</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="298" external="false">
+                    <name>Page 298</name>
+                    <description>Page 298</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="299" external="false">
+                    <name>Page 299</name>
+                    <description>Page 299</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="300" external="false">
+                    <name>Page 300</name>
+                    <description>Page 300</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="301" external="false">
+                    <name>Page 301</name>
+                    <description>Page 301</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="302" external="false">
+                    <name>Page 302</name>
+                    <description>Page 302</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="302"
+                       external="false">
+                    <name>Pg302: Animation</name>
+                    <description>Page 302</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_2" bookID="undefined" pageID="302"
+                       external="false">
+                    <name>Pg302: Slideshow</name>
+                    <description>Page 302</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="303" external="false">
+                    <name>Page 303</name>
+                    <description>Page 303</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="304" external="false">
+                    <name>Page 304</name>
+                    <description>Page 304</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="305" external="false">
+                    <name>Page 305</name>
+                    <description>Page 305</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="306" external="false">
+                    <name>Page 306</name>
+                    <description>Page 306</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="307" label="23. Introduction to Coordinate System  " resourcesExist="true"
+                 dividerwidth="430" isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="307" external="false">
+                    <name>Page 307</name>
+                    <description>Page 307</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="307"
+                       external="false">
+                    <name>Pg307: Animation</name>
+                    <description>Page 307</description>
+                    <type>Flash</type>
+                    <genre>Animation</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="308" external="false">
+                    <name>Page 308</name>
+                    <description>Page 308</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="309" external="false">
+                    <name>Page 309</name>
+                    <description>Page 309</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="310" external="false">
+                    <name>Page 310</name>
+                    <description>Page 310</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="311" external="false">
+                    <name>Page 311</name>
+                    <description>Page 311</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="312" external="false">
+                    <name>Page 312</name>
+                    <description>Page 312</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="313" external="false">
+                    <name>Page 313</name>
+                    <description>Page 313</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="314" external="false">
+                    <name>Page 314</name>
+                    <description>Page 314</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="315" external="false">
+                    <name>Page 315</name>
+                    <description>Page 315</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="316" external="false">
+                    <name>Page 316</name>
+                    <description>Page 316</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="317" label="24. Probability  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="317" external="false">
+                    <name>Page 317</name>
+                    <description>Page 317</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="SWF_Hotspot_item_1" bookID="undefined" pageID="317"
+                       external="false">
+                    <name>Pg317: Slideshow</name>
+                    <description>Page 317</description>
+                    <type>Flash</type>
+                    <genre>Slideshow</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="318" external="false">
+                    <name>Page 318</name>
+                    <description>Page 318</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="319" external="false">
+                    <name>Page 319</name>
+                    <description>Page 319</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="320" external="false">
+                    <name>Page 320</name>
+                    <description>Page 320</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="321" external="false">
+                    <name>Page 321</name>
+                    <description>Page 321</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="322" external="false">
+                    <name>Page 322</name>
+                    <description>Page 322</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="323" external="false">
+                    <name>Page 323</name>
+                    <description>Page 323</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="324" label="Formative Assessment (FA 4)  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="324" external="false">
+                    <name>Page 324</name>
+                    <description>Page 324</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="325" label="Summative Assessment 2  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="325" external="false">
+                    <name>Page 325</name>
+                    <description>Page 325</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="326" external="false">
+                    <name>Page 326</name>
+                    <description>Page 326</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="327" external="false">
+                    <name>Page 327</name>
+                    <description>Page 327</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="328" label="Problem Solving Assessment (PSA)  " resourcesExist="true" dividerwidth="430"
+                 isVisible="true" height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="328" external="false">
+                    <name>Page 328</name>
+                    <description>Page 328</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="329" external="false">
+                    <name>Page 329</name>
+                    <description>Page 329</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+        <section identifier="330" label="Answers  " resourcesExist="true" dividerwidth="430" isVisible="true"
+                 height="65" isUnit="true">
+            <assets>
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="330" external="false">
+                    <name>Page 330</name>
+                    <description>Page 330</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="331" external="false">
+                    <name>Page 331</name>
+                    <description>Page 331</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="332" external="false">
+                    <name>Page 332</name>
+                    <description>Page 332</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="333" external="false">
+                    <name>Page 333</name>
+                    <description>Page 333</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="334" external="false">
+                    <name>Page 334</name>
+                    <description>Page 334</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="335" external="false">
+                    <name>Page 335</name>
+                    <description>Page 335</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="336" external="false">
+                    <name>Page 336</name>
+                    <description>Page 336</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="337" external="false">
+                    <name>Page 337</name>
+                    <description>Page 337</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+
+
+                <asset selected="false" editable="" id="page" bookID="undefined" pageID="338" external="false">
+                    <name>Page 338</name>
+                    <description>Page 338</description>
+                    <type>Page</type>
+                    <genre>Page</genre>
+                    <path>undefined</path>
+                    <pageNoteTitle/>
+                </asset>
+            </assets>
+        </section>
+    </sections>
+</bookStructure>
