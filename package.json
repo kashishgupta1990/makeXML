@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kashishgupta1990/makeXML/issues"
   },
-  "homepage": "https://github.com/kashishgupta1990/makeXML#readme"
+  "homepage": "https://github.com/kashishgupta1990/makeXML#readme",
+  "dependencies": {
+    "xml2js": "^0.4.15"
+  }
 }
